@@ -1,0 +1,8 @@
+{
+  "supply-chain-dapp-backend": {
+    "ic": "vdmsd-nqaaa-aaaaa-qagia-cai"
+  },
+  "supply-chain-dapp-frontend": {
+    "ic": "venux-aiaaa-aaaaa-qagiq-cai"
+  }
+}
